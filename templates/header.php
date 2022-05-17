@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="./css/style.css" />
+<link rel="stylesheet" href="../css/style.css" />
 
 <body>
   <header>
@@ -16,6 +16,4 @@
         </ul>
       </nav>
     </header>
-    <main></main>
-    <script src="mobile-navbar.js"></script>
   </body>
