@@ -4,7 +4,7 @@
 }
 
 a {
-  color: rgb(131, 131, 131);
+  color: #838383;
   text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
-  background: #ffffff;
+  background: #E0E0E0;
   height: 8vh;
 }
 
@@ -45,7 +45,7 @@ nav {
 .mobile-menu div {
   width: 32px;
   height: 2px;
-  background: #fff;
+  background: #E0E0E0;
   margin: 8px;
   transition: 0.3s;
 }

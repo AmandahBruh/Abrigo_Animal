@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 6%;
+    margin-right: 7%;
+    background-color: #ffffff;
+}
+
+body{
+    background-color: #B0B0B0;
+}
+
+.responsive {
+    width: 400px;
+    height: 800px;
+    padding-left: 5%;
+    padding-top: 10%;
+    height: auto;
+}
