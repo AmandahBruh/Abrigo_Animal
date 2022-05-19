@@ -12,25 +12,27 @@
     require('templates/header.php');
     require('CSS/style.php');
 ?>
-
-<table style='margin: 0 auto;'>
-  <tr>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-  </tr>
-  <tr>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-  </tr>
-  <tr>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
-  </tr>
-</table>
-
+<section class='teste'>
+    <div class='container'></div>
+    <table style='margin: 0 auto;'>
+      <tr>
+        <th><a href='paginas/bixo.php'><img src="./imagens/pato.jpg" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/boxer.jpg" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/gatinho.jpg" alt="" class="img_index"></a></th>
+      </tr>
+      <tr>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/pitbull.png" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/gato03.png" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/dog.png" alt="" class="img_index"></a></th>
+      </tr>
+      <tr>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/pig1.jpg" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/cat.webp" alt="" class="img_index"></a></th>
+        <th><a  href='paginas/bixo.php'><img src="./imagens/yordle.jpg" alt="" class="img_index"></a></th>
+      </tr>
+    </table>
+    <div class='container'></div>
+</section>
 <?php
     require('templates/footer.php');
 ?>

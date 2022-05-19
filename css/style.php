@@ -71,4 +71,33 @@ td, th {
   height: 200px;
   width: 300px;
 }
+.divi{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 6%;
+    margin-right: 7%;
+    background-color: #ffffff;
+}
+
+/* Teste */
+
+.teste {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.container {
+  width: 207px;
+  height: 761px;
+  background-color: #000000;
+  opacity:30%;
+}
+.rodape{
+  position: absolute;
+  width:100%;
+  height:100px;
+  background: #E0E0E0;
+  font-family: Arial, sans-serif;
+}
 </style>
