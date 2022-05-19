@@ -1,3 +1,5 @@
+<style>
+
 * {
   margin: 0;
   padding: 0;
@@ -49,3 +51,24 @@ nav {
   margin: 8px;
   transition: 0.3s;
 }
+
+//teste
+
+.tabela-img {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  text-align: left;
+  padding: 15px;
+  padding-right:20px;
+
+}
+
+.img_index{
+  height: 200px;
+  width: 300px;
+}
+</style>

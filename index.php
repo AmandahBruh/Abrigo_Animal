@@ -7,14 +7,32 @@
     <title>Document</title>
 </head>
 <body>
+
 <?php
-    require('./templates/header.php');
+    require('templates/header.php');
+    require('CSS/style.php');
 ?>
 
-
+<table style='margin: 0 auto;'>
+  <tr>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+  </tr>
+  <tr>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+  </tr>
+  <tr>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+    <th><img src="./imagens/pato.jpg" alt="" class="img_index"></th>
+  </tr>
+</table>
 
 <?php
-    require('./templates/footer.php');
+    require('templates/footer.php');
 ?>
 </body>
 </html>
