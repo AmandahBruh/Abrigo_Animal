@@ -9,8 +9,8 @@
 </head>
 <body>
     <?php
-    require('../templates/header.php');
-    require('../css/bixoCss.php');
+    require('./templates/header.php');
+    require('./css/bixoCss.php');
     ?>
 
     <div class="flex-container">
