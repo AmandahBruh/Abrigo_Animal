@@ -5,15 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="../css/bixo.css">
 </head>
 <body>
+    <?php
+    require('../templates/header.php');
+    require('../css/bixoCss.php');
+    ?>
 
-<?php
-    require('./templates/header.php');
-?>
-<section class='teste'>
-    <div class='container'></div>
-    <table style='margin: 0 auto;'>
+    <div class="flex-container">
+
+    <table style='margin: 0 auto; padding-top: 6%;'>
       <tr>
         <th><a href='paginas/bixo.php'><img src="./imagens/pato.jpg" alt="" class="img_index"></a></th>
         <th><a  href='paginas/bixo.php'><img src="./imagens/boxer.jpg" alt="" class="img_index"></a></th>
@@ -30,10 +32,11 @@
         <th><a  href='paginas/bixo.php'><img src="./imagens/yordle.jpg" alt="" class="img_index"></a></th>
       </tr>
     </table>
-    <div class='container'></div>
-</section>
-<?php
-    require('./templates/footer.php');
-?>
+
+    </div>
+
+    <?php
+        require('./templates/footer.php');
+    ?>
 </body>
 </html>

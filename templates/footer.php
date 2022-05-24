@@ -1,6 +1,6 @@
 <footer class='rodape' >
 
-  <h2 style="margin-top: 3%; text-align: end;"> © Desenvolvimento por João Gabriel e Amanda Rondão </h2>
+  <h2 style="margin-top: 3%; text-align: end; margin-right: 1%;"> © Desenvolvimento por João Gabriel e Amanda Rondão </h2>
 
 </footer>
 
