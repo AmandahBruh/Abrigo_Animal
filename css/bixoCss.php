@@ -52,7 +52,7 @@ body{
     font-family: 'Outfit', sans-serif;
     font-size: 28px;
     font-style: normal;
-    color: #000000;
+    color: #5f5f5f;
 }
 
 </style>

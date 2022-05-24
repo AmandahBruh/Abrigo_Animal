@@ -18,7 +18,11 @@
     
     <div class="vl">
     <h1 class="letral">Pato</h1>
-    <h4 class="letralo">finge q tem alguma coisa muito interessante sobre o pato aqui.</h4>
+    <h4 class="letralo">A dieta do pato é muito variada, já que ele não é muito exigente. Você pode dar ração especializada, mas é preciso tomar cuidado com a quantidade.
+        <br>
+        <br>
+    Assim como a comida, o acesso à água bem fresquinha para consumo deve ser irrestrito.
+    </h4>
 </div>
     </div>
 
