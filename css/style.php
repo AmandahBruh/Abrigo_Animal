@@ -1,5 +1,7 @@
 <style>
 
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -24,9 +26,9 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-family: 'Outfit', sans-serif;
   background: #E0E0E0;
-  height: 8vh;
+  height: 12vh;
 }
 
 .nav-list {
@@ -55,7 +57,7 @@ nav {
 //teste
 
 .tabela-img {
-  font-family: arial, sans-serif;
+  font-family: 'Outfit', sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
@@ -70,34 +72,5 @@ td, th {
 .img_index{
   height: 200px;
   width: 300px;
-}
-.divi{
-    display: flex;
-    justify-content: flex-start;
-    margin-left: 6%;
-    margin-right: 7%;
-    background-color: #ffffff;
-}
-
-/* Teste */
-
-.teste {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.container {
-  width: 207px;
-  height: 761px;
-  background-color: #000000;
-  opacity:30%;
-}
-.rodape{
-  position: absolute;
-  width:100%;
-  height:100px;
-  background: #E0E0E0;
-  font-family: Arial, sans-serif;
 }
 </style>

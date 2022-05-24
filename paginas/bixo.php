@@ -9,11 +9,17 @@
 </head>
 <body>
     <?php
-        require('../templates/header.php');
+    require('../templates/header.php');
+    require('../css/bixoCss.php');
     ?>
 
     <div class="flex-container">
     <img src="../imagens/pato.jpg" alt="Pato" class="responsive">
+    
+    <div class="vl">
+    <h1 class="letral">Pato</h1>
+    <h4 class="letralo">finge q tem alguma coisa muito interessante sobre o pato aqui.</h4>
+</div>
     </div>
 
     <?php

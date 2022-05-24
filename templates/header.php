@@ -1,7 +1,12 @@
 
-<link rel="stylesheet" href="../css/style.css" />
 
+<?php
+
+require('../css/style.php');
+
+?>
 <body>
+<b>
   <header>
     <nav>
       <a class="logo" href="/">Bom dia!</a>
@@ -16,4 +21,5 @@
         </ul>
       </nav>
     </header>
+</b>
   </body>
