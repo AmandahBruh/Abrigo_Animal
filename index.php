@@ -9,8 +9,7 @@
 <body>
 
 <?php
-    require('templates/header.php');
-    require('CSS/style.php');
+    require('./templates/header.php');
 ?>
 <section class='teste'>
     <div class='container'></div>
@@ -34,7 +33,7 @@
     <div class='container'></div>
 </section>
 <?php
-    require('templates/footer.php');
+    require('./templates/footer.php');
 ?>
 </body>
 </html>
