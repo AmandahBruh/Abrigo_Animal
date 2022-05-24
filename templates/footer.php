@@ -11,8 +11,7 @@
   position: absolute;
   width:100%;
   height: 14%;
-  /* background: #E0E0E0; */
-  background-color: black;
+  background: #E0E0E0;
   font-family: 'Outfit', sans-serif;
   color: #838383;
     }
